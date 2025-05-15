@@ -1,12 +1,11 @@
 # Clinical-Database-Management-System
 
-===========================================
          Clinic Booking System
         MySQL Database Project
 ===========================================
 
-Author: [Your Name]
-Date: [Submission Date]
+Author: Nontando Myoli
+Date: 15/05/2025
 Database Name: ClinicDB
 
 -------------------------------------------
